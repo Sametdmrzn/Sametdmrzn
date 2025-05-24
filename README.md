@@ -22,11 +22,8 @@
 ---
 
 ## 📫 Bana ulaş:
-- E-posta: samet@example.com  
+- E-posta: sametdmzn@gmail.com
 - Portfolio: [zerrcollection.com](https://zerrcollection.com)  
 
 ---
-
-## 📈 GitHub İstatistiklerim
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametdemirezen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
