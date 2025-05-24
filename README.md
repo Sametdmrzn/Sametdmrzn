@@ -1,14 +1,31 @@
-# Hi there, I'm Samet 👋
+# 👋 Merhaba, ben Samet DEMİREZEN
 
-🎓 Graduate of Computer Programming | 💻 Frontend Developer  
-🌱 Currently learning Full Stack Development  
-📫 Reach me at: samet@example.com  
-🌐 Portfolio: [zerrcollection.com](https://zerrcollection.com)  
-🛠️ Skills: HTML, CSS, JavaScript, Bootstrap, React  
+🎓 Aydın Adnan Menderes Üniversitesi - Bilgisayar Programcılığı Mezunu  
+💼 Stajyer olarak Frontend/Web Developer pozisyonları için iş arıyorum  
+🚀 Kendimi sürekli geliştirmeye çalışıyorum  
 
-## 🔧 Projects
-- **Typing Practice Website** – HTML/CSS/JS project for ten-finger typing  
-- **E-commerce Template** – Bootstrap-based product listing demo  
+---
 
-## 📈 GitHub Stats
+## 🛠️ Kullandığım ve Geliştirmekte Olduğum Teknolojiler:
+- HTML / CSS / Bootstrap  
+- JavaScript  
+- React  
+- WordPress  
+
+---
+
+## 📌 Hakkımda
+- 💻 Web geliştirme üzerine odaklanıyorum  
+- 📚 Yeni teknolojiler öğrenmeyi seviyorum  
+- 🛍️ Zerrcollection markası için web ve tasarım işleriyle ilgileniyorum  
+
+---
+
+## 📫 Bana ulaş:
+- E-posta: samet@example.com  
+- Portfolio: [zerrcollection.com](https://zerrcollection.com)  
+
+---
+
+## 📈 GitHub İstatistiklerim
 ![Samet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametdemirezen&show_icons=true&theme=radical)
