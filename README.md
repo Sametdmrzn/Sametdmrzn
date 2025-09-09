@@ -1,25 +1,24 @@
-# 👋 Merhaba, ben Samet DEMİREZEN
+# 👋 Hello, I’m Samet DEMİREZEN
 
-🎓 Aydın Adnan Menderes Üniversitesi - Bilgisayar Programcılığı Mezunu  
-🚀 Kendimi sürekli geliştirmeye çalışıyorum  
+🎓 Aydın Adnan Menderes University - Graduate in Computer Programing  
+🚀 I'm constantly working on improving my skills in software development
 
 ---
 
-## 🛠️ Kullandığım ve Geliştirmekte Olduğum Teknolojiler:
-- HTML / CSS / Bootstrap  
+## 🛠️ Technologies I use and continue to develop:
+- HTML / CSS / Bootstrap  / tailwind
 - JavaScript  
 - React  
 
 ---
 
-## 📌 Hakkımda
-- 💻 Web geliştirme üzerine odaklanıyorum  
-- 📚 Yeni teknolojiler öğrenmeyi seviyorum    
-
+## 📌 About Me:
+- 💻 I focus on web development
+- 📚 I enjoy learning new technologies
+- 🧩 I solve algorithm problems regularly every day
 ---
 
-## 📫 Bana ulaş:
-- E-posta: sametdmzn@gmail.com
-
+## 📫 Contact Me:
+- E-mail: sametdmzn@gmail.com
 ---
 
