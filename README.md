@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Samet DEMİREZEN
 
-🎓 Aydın Adnan Menderes University - Graduate in Computer Programing  
+🎓 Aydın Adnan Menderes University - Graduate in Computer Programming  
 🚀 I'm constantly working on improving my skills in software development
 
 ---
